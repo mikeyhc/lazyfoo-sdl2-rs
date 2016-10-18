@@ -1,0 +1,7 @@
+[package]
+name = "ch3"
+version = "0.1.0"
+authors = ["mikeyhc <mikeyhc@atmosia.net>"]
+
+[dependencies]
+sdl2 = "0.24"
